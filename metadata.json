@@ -1,0 +1,6 @@
+{
+  "name": "Kedai Rasa Nusantara POS & Kitchen",
+  "description": "Sistem POS Kasir, Kitchen Display System (KDS), Menu Realtime WebSocket, Laporan Keuangan Harian, Analitik Stok Bahan Baku, dan Notifikasi WhatsApp Pelanggan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
